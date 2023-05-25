@@ -1,0 +1,26 @@
+Three common things which we do in every programming language are:
+1.Storing the data
+2.Performing operations on that data
+3.Displaying the results
+
+variable:-
+        name must start with alphabet
+        we cant use special symbols except $_
+        after a character you can use a number
+        keywords are not allowed 
+
+        data types:-
+          number        -6.876.7.12,-7.45
+          string        "combination of characters" or ''
+          null          not a garbage but something is present
+          undefined     like a garbage
+          boolean       true or false
+          symbol        craetes a unique identity
+          BigInt        6755346746876827349876n
+
+    secondary
+        object which is a combination of all primary datatypes
+        {
+            key:value,
+            key:value
+        }
